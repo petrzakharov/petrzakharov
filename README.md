@@ -7,5 +7,4 @@ Skills
 - Python (3 years);
 
 About me
-- 💡 I’m currently learning backend development with Django, DRF and Flask.
 - 📫 How to reach me: telegram @zakharovp
