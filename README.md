@@ -6,5 +6,5 @@ Skills
 - SQL (4 years);
 - Python (3 years);
 
-About me
-- 📫 How to reach me: telegram @zakharovp
+How to reach me
+- 📫 telegram @zakharovp
