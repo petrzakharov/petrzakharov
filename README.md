@@ -1,10 +1,9 @@
-### Hi there 👋
+## Hi there 👋
 
+### Skills
+- Programming: Python (Airflow, dbt, Django), SQL, bash;
+- DevOps: Docker, Gitlab ci, Github actions;
+- DB: Greenplum, Postgres, MSSQL, Bigquery
 
-Skills
-- I have prior experience as a data analyst and data engineer;
-- SQL (4 years);
-- Python (3 years);
-
-How to reach me
+### How to reach me
 - 📫 telegram @zakharovp
